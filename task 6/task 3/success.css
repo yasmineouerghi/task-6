@@ -1,0 +1,20 @@
+.txt{
+    text-align: center;
+}
+h1{
+    color: rgb(8, 138, 60);
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+.container{
+    border-radius: 10px;
+    background-color: white;
+    margin:100px;
+    padding: 10px;
+}
+body{
+    background-image: linear-gradient(to left, rgb(157, 250, 231),rgb(10, 89, 68)
+    );
+}

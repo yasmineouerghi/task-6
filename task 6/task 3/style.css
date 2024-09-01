@@ -1,0 +1,72 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap');
+
+#last{
+    margin-left: 300px;
+}
+#lastname{
+    margin-left: 75px;
+}
+.inputField{
+   width:610px;
+   height:25px;
+  
+
+}
+.input{
+    width: 260px;
+    height:25px;
+    
+}
+.inputField:focus{
+    background-color: rgb(220, 219, 219);
+    border-color: white;
+}
+.input:focus{
+    background-color: rgb(220, 219, 219);
+    border-color: white;
+}
+button{
+    margin-left: 80px;
+    background-image: linear-gradient(to left,rgb(157, 250, 231),rgb(10, 89, 68));
+    width:500px;
+    height:30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border-color: white;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.title{ margin-top: 30px;
+    margin-left: 200px;
+}
+h3{
+   font-family:'Gruppo';
+}
+.container{
+    background-color: white;
+    border-radius: 20px;
+  margin:50px;
+  padding:5px;
+  
+    
+}
+
+
+body{
+    background-image: linear-gradient(to left, rgb(157, 250, 231),rgb(10, 89, 68)
+    );
+}
+.form{
+    margin-left:20px;
+}
+button:hover{
+    scale:1.1
+    
+
+
+}

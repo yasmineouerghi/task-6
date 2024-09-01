@@ -1,0 +1,18 @@
+.title{
+    padding: 30px 20px 30px 20px; /*top left bottom right ou 30 20*/
+text-align: center;
+color: rgb(28, 160, 100);
+font-style:oblique;
+font-size: larger;
+
+}
+*{
+    font-family: sans-serif;
+}
+.destination{ color: rgb(28, 160, 100);
+
+
+}
+.fond{
+    background-color: rgb(197, 245, 217);
+}
